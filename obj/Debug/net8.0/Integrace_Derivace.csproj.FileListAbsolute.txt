@@ -1,0 +1,14 @@
+C:\Users\Eduda\Desktop\IDT\Integrace_Derivace\bin\Debug\net8.0\Integrace_Derivace.exe
+C:\Users\Eduda\Desktop\IDT\Integrace_Derivace\bin\Debug\net8.0\Integrace_Derivace.deps.json
+C:\Users\Eduda\Desktop\IDT\Integrace_Derivace\bin\Debug\net8.0\Integrace_Derivace.runtimeconfig.json
+C:\Users\Eduda\Desktop\IDT\Integrace_Derivace\bin\Debug\net8.0\Integrace_Derivace.dll
+C:\Users\Eduda\Desktop\IDT\Integrace_Derivace\bin\Debug\net8.0\Integrace_Derivace.pdb
+C:\Users\Eduda\Desktop\IDT\Integrace_Derivace\obj\Debug\net8.0\Integrace_Derivace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduda\Desktop\IDT\Integrace_Derivace\obj\Debug\net8.0\Integrace_Derivace.AssemblyInfoInputs.cache
+C:\Users\Eduda\Desktop\IDT\Integrace_Derivace\obj\Debug\net8.0\Integrace_Derivace.AssemblyInfo.cs
+C:\Users\Eduda\Desktop\IDT\Integrace_Derivace\obj\Debug\net8.0\Integrace_Derivace.csproj.CoreCompileInputs.cache
+C:\Users\Eduda\Desktop\IDT\Integrace_Derivace\obj\Debug\net8.0\Integrace_Derivace.dll
+C:\Users\Eduda\Desktop\IDT\Integrace_Derivace\obj\Debug\net8.0\refint\Integrace_Derivace.dll
+C:\Users\Eduda\Desktop\IDT\Integrace_Derivace\obj\Debug\net8.0\Integrace_Derivace.pdb
+C:\Users\Eduda\Desktop\IDT\Integrace_Derivace\obj\Debug\net8.0\Integrace_Derivace.genruntimeconfig.cache
+C:\Users\Eduda\Desktop\IDT\Integrace_Derivace\obj\Debug\net8.0\ref\Integrace_Derivace.dll
